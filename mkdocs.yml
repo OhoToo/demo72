@@ -1,6 +1,17 @@
 site_name: My Docs
+
+
 docs_dir: site/docs
+
+theme:
+  name: material
+
+plugins:
+  - search
+  - tags
+
 nav:
   - Главная: index.md
+  - Навыки: skills.md
   - FAQ: faq.md
 
