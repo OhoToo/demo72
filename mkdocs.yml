@@ -2,5 +2,5 @@ site_name: My Docs
 docs_dir: site/docs
 nav:
   - Главная: index.md
-  - Гайд: guide.md
   - FAQ: faq.md
+
