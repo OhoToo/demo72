@@ -1,3 +1,9 @@
+---
+tags :
+    - skills
+    - github
+---
+
 # Я — студент-программист
 
 Учусь разработке и делаю небольшие проекты для практики.
@@ -5,7 +11,6 @@
 ## Навыки
 - Python (простые программы)
 - HTML/CSS (страницы)
-- SQL (простые запросы)
 - Git (коммиты, ветки)
 
 ## Примеры проектов
@@ -14,4 +19,4 @@
 
 ## Контакты
 - Email: example@mail.com
-- GitHub: https://github.com/username
+- GitHub: [Мой GitHub](https://github.com/OhoToo)
