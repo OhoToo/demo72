@@ -1,7 +1,8 @@
 site_name: My Docs
 
 
-docs_dir: site/docs
+docs_dir: docs
+site_dir: site
 
 theme:
   name: material
