@@ -1,0 +1,25 @@
+# ===== Python virtual environments =====
+env/
+venv/
+.venv/
+
+# ===== Python cache / build =====
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.coverage
+dist/
+build/
+*.egg-info/
+
+# ===== OS files =====
+.DS_Store
+Thumbs.db
+
+# ===== Editors / IDE =====
+.vscode/
+.idea/
+*.swp
