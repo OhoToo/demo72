@@ -1,8 +1,8 @@
 site_name: My Docs
 
 
-docs_dir: docs
-site_dir: site
+docs_dir: site
+site_dir: docs
 
 theme:
   name: material
@@ -10,6 +10,7 @@ theme:
 plugins:
   - search
   - tags
+  - macros
 
 nav:
   - Главная: index.md
@@ -17,3 +18,5 @@ nav:
   - FAQ: faq.md
   - Проекты: project.md
 
+extra:
+  nothing: "Здесь ничего нет. ПОка что."
