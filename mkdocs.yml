@@ -2,7 +2,7 @@ site_name: My Docs
 
 
 docs_dir: site
-site_dir: docs
+site_dir: public
 
 theme:
   name: material
