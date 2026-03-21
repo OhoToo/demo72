@@ -7,7 +7,7 @@ site_dir: public
 theme:
   name: material
 
-
+site_name: Портфолио
 site_url: https://ohotoo.github.io/demo72/
 
 plugins:
